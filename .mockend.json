@@ -1,0 +1,7 @@
+{
+  "Story": {
+    "title": "string",
+    "like": "int",
+    "detail": "string"
+  }
+}
